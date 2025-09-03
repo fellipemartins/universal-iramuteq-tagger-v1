@@ -6,6 +6,7 @@ import time
 from rapidfuzz import fuzz
 from io import BytesIO
 
+
 # Configure page
 st.set_page_config(
     page_title="Universal Iramuteq Tagger",
